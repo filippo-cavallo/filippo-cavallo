@@ -28,7 +28,7 @@ class more_about_me:
     ]
 
     # Currently learning and improving
-    learning = ["C++"]
+    learning = ["C++", "NI LabVIEW"]
 
     # Hobbies and personal interests
     hobbies = [
